@@ -1,0 +1,6 @@
+numpy==1.16.0
+scipy==1.2.0
+matplotlib==2.2.3
+Pillow==6.2.0
+opencv-python==4.0.0.21
+argparse==1.4.0
